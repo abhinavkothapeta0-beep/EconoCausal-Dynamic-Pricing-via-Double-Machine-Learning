@@ -1,0 +1,19 @@
+# Data handling
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning and causal inference
+scikit-learn
+doubleml
+
+# Interactive dashboard
+streamlit
+
+# Notebook environment
+jupyter
+ipykernel
